@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Data\AVR Projects\Counter\Program\Program\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Data\AVR Projects\Counter\Program\Program\Debug\Program.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Program.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Program.map</FILE>
+  <FILE>Program.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>9</LINE></START>
+  <TIM0_OVF_ISR><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>107</LINE></TIM0_OVF_ISR>
+  <TABLE><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>27</LINE></TABLE>
+  <MODES><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>30</LINE></MODES>
+  <LOOP><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>60</LINE></LOOP>
+  <SEPARATE_DIGITS><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>66</LINE></SEPARATE_DIGITS>
+  <DISPLAY_DIGITS><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>80</LINE></DISPLAY_DIGITS>
+  <DISPLAY_LIGHTS><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>99</LINE></DISPLAY_LIGHTS>
+  <L1><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>70</LINE></L1>
+  <L2><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>76</LINE></L2>
+  <DISPLAY_DIGIT><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>90</LINE></DISPLAY_DIGIT>
+  <DELAY_2MS><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>144</LINE></DELAY_2MS>
+  <ROUTE><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>117</LINE></ROUTE>
+  <L3><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>128</LINE></L3>
+  <NEXT_MODE><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>136</LINE></NEXT_MODE>
+  <L4><FILE>C:\Data\AVR Projects\Counter\Program\Program\main.asm</FILE><LINE>147</LINE></L4>
+ </LABELS>
+</ASSEMBLER_INFO>
